@@ -1,0 +1,2 @@
+Willkommen zu meiner Büchergram Applikation
+Projektmitglieder: Sebastian Plendl
